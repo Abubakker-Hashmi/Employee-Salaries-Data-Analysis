@@ -1,0 +1,1 @@
+the "SF Salaries" dataset typically refers to a dataset containing information about salaries for employees in the city of San Francisco, California, USA. This dataset is often used for analysis and exploration in data science and statistics. 
